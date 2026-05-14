@@ -147,7 +147,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Patibandla Mahendra** - [mahendrapatibandla7@gmail.com](mailto:mahendrapatibandla7@gmail.com)
 
-Project Link: [https://github.com/yourusername/ecommerce-sales-analysis](https://github.com/yourusername/ecommerce-sales-analysis)
+Project Link: [https://github.com/MahendraPatibandla/E-Commerce-Sales-Analytics-Project-in-Python](https://github.com/MahendraPatibandla/E-Commerce-Sales-Analytics-Project-in-Python)
 
 ---
 
