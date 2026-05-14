@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analysis Project
 
-![Python] <img width="1898" height="976" alt="image" src="https://github.com/user-attachments/assets/81e30645-1695-49cf-bb2a-a39ac6f3d065" />
+<img width="1898" height="976" alt="image" src="https://github.com/user-attachments/assets/81e30645-1695-49cf-bb2a-a39ac6f3d065" />
 
  <img width="1764" height="752" alt="image" src="https://github.com/user-attachments/assets/b69721f2-0777-4d93-99e3-1428b160e623" />
 
